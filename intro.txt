@@ -1,0 +1,16 @@
+=== SPACEXPLORER ===
+
+You are an astronaut stranded in the depths of space.
+Your mission is to navigate through the void, collect valuable space junk,
+and find your way back home.
+
+Watch out for the asteroid! If it hits you, your mission is over.
+Space junk can be used to repair your ship and refuel.
+
+Legend:
+P - Player (you)
+A - Asteroid (avoid!)
+* - Space Junk (collect)
+H - Home (reach to win)
+
+Good luck, explorer!
